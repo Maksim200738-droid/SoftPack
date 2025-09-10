@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# Основные страницы
+Allow: /games
+Allow: /about
+Allow: /events
+
+# Динамические страницы игр и читов
+Allow: /game/*
+Allow: /cheat/*
+
+# Запрещенные страницы
+Disallow: /admin
+Disallow: /login
+Disallow: /register
+
+# Sitemap
+Sitemap: https://softpack.ru/sitemap.xml
+
+# Дополнительные директивы
+Crawl-delay: 1

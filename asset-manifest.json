@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SoftPack/static/css/main.ae576a51.css",
+    "main.js": "/SoftPack/static/js/main.5ee48e85.js",
+    "static/js/453.83e75175.chunk.js": "/SoftPack/static/js/453.83e75175.chunk.js",
+    "index.html": "/SoftPack/index.html",
+    "main.ae576a51.css.map": "/SoftPack/static/css/main.ae576a51.css.map",
+    "main.5ee48e85.js.map": "/SoftPack/static/js/main.5ee48e85.js.map",
+    "453.83e75175.chunk.js.map": "/SoftPack/static/js/453.83e75175.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae576a51.css",
+    "static/js/main.5ee48e85.js"
+  ]
+}
